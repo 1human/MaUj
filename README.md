@@ -1,30 +1,20 @@
-## docsify
 
-> A magical documentation site generator.
+# 制作一个万向节
 
-## What it is
+> 一场神奇的旅程即将开始。
 
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+## 前言
 
-See the [Quick start](quickstart.md) guide for more details.
+从前，我们学习数学，学习物理，学习化学...我们习惯了自下而上由点及面的学习，并希望学习完成后能对具体问题作出分析解释。这个过程在我看来过于痛苦，因为我们在这个学习的过程中始终是管中窥豹的。我们无法看到最终的“问题”所在， 只能在学习的路上蒙眼狂奔。
+现在我希望通过一个真正工业零件的完整制造设计过程，由上而下的讲述。我相信有好奇心的你会不断填充这个类wiki文档，不断拓展引用条目,后来者也将因此收益。
 
-## Features
+查看[介绍](quickstart.md)开始旅程吧！
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
+## 感谢
 
-## Examples
+本文档使用Docsify生成，万分感谢！
+你可以在[Discord](https://discord.gg/3NwKFyR)、[Gitee](https://gitee.com/docsifyjs/docsify)、[GitHub](https://github.com/docsifyjs/docsify)里可以找到 Docsify 的用户和开发者团队。
 
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
+## 反馈
 
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
+人力有尽，学海无涯，谬误在所难免。如果各位读者有发现错误，麻烦一定点击页面顶部的Edit来修改对应md文件。当然，如果你有更简单、易懂、直观、有趣的讲述方案，也请不吝提交修改。谢谢！
