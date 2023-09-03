@@ -1,12 +1,12 @@
-![logo](_media/icon.svg)
+![logo](_images/Universal_joint.gif ':size=20%')
 
-# docsify <small>4.13.0</small>
+# 制作一个万向节 <small>0.1</small>
 
-> A magical documentation site generator.
+> 一场愉快的旅程即将开始
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 希望有趣
+- 希望有用
+- 希望你能喜欢并有所收获
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[开始](#制作一个万向节)
